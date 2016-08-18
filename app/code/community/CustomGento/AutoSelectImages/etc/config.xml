@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CustomGento_AutoSelectImages>
+            <version>1.0.0</version>
+        </CustomGento_AutoSelectImages>
+    </modules>
+    <adminhtml>
+        <layout>
+            <updates>
+                <customgento_autoselectimages>
+                    <file>customgento_autoselectimages.xml</file>
+                </customgento_autoselectimages>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>

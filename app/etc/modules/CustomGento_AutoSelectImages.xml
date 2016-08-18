@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CustomGento_AutoSelectImages>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Admin/>
+                <Mage_Adminhtml/>
+                <Mage_Catalog/>
+                <Mage_Core/>
+            </depends>
+        </CustomGento_AutoSelectImages>
+    </modules>
+</config>

@@ -1,0 +1,4 @@
+app/code/community/CustomGento/AutoSelectImages/ app/code/community/CustomGento/AutoSelectImages/
+app/design/adminhtml/default/default/layout/customgento_autoselectimages.xml app/design/adminhtml/default/default/layout/customgento_autoselectimages.xml
+app/etc/modules/CustomGento_AutoSelectImages.xml app/etc/modules/CustomGento_AutoSelectImages.xml
+skin/adminhtml/default/default/js/customgento_autoselectimages.js skin/adminhtml/default/default/js/customgento_autoselectimages.js
