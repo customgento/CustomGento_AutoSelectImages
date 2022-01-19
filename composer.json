@@ -3,7 +3,7 @@
   "type": "magento-module",
   "license": "WTFPL",
   "homepage": "https://github.com/customgento/CustomGento_AutoSelectImages",
-  "description": "Magento (1) extension, which automatically selects the base image / small image / thumbnail radio buttons when the first image is uploaded.",
+  "description": "AutoSelectImages for Magento 1 provides the possibility to automatically select the base image / small image / thumbnail radio buttons when the first image is uploaded.",
   "authors": [
     {
       "name": "CustomGento Team",

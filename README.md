@@ -1,6 +1,6 @@
-CustomGento AutoSelectImages Extension (M1)
+AutoSelectImages for Magento 1
 ===========================================
-Magento (1) extension, which automatically selects the base image / small image / thumbnail radio buttons when the first image is uploaded.
+AutoSelectImages for Magento 1 provides the possibility to automatically select the base image / small image / thumbnail radio buttons when the first image is uploaded. In a default Magento instance, these buttons need to be clicked manually, which takes a lot of time. 
 
 Facts
 -----
